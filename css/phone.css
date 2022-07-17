@@ -1,4 +1,8 @@
 * Navigation */
+body
+{
+    width: 100%;
+}
 #navbar {
     flex-direction: column;
 }
@@ -46,7 +50,7 @@
 
 /* Contact us section */
 #contact-box form{
-    width:80%;
+    
 }
 /* Footer */
 
